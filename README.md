@@ -40,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3879-find-minimum-log-transportation-cost](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3879-find-minimum-log-transportation-cost) |
+## String
+|  |
+| ------- |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
+## Stack
+|  |
+| ------- |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
+## Simulation
+|  |
+| ------- |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
 <!---LeetCode Topics End-->
