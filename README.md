@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [3879-find-minimum-log-transportation-cost](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3879-find-minimum-log-transportation-cost) |
 <!---LeetCode Topics End-->
