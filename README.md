@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -59,8 +60,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 <!---LeetCode Topics End-->
