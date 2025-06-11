@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0152-maximum-product-subarray) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0139-word-break) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
