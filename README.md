@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3879-find-minimum-log-transportation-cost) |
 ## String
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0090-subsets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
