@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3849-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
