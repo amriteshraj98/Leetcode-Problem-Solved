@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3617-find-the-original-typed-string-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
