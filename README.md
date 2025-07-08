@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3618-find-the-original-typed-string-ii) |
 ## Graph
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1706-min-cost-to-connect-all-points) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
