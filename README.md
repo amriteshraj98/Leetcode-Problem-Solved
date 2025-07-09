@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3849-equal-sum-grid-partition-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Recursion
 |  |
 | ------- |
