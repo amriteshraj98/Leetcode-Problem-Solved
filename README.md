@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0503-next-greater-element-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Simulation
 |  |
@@ -278,4 +280,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
