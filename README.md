@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1706-min-cost-to-connect-all-points) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -336,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
