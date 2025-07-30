@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1706-min-cost-to-connect-all-points](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1706-min-cost-to-connect-all-points) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0139-word-break) |
 | [0556-next-greater-element-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0556-next-greater-element-iii) |
+| [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1813-maximum-erasure-value) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
 ## Trie
 |  |
@@ -315,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
+| [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
