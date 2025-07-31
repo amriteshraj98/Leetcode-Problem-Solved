@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0090-subsets-ii) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
