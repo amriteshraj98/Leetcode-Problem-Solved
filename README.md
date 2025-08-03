@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Math
 |  |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3618-find-the-original-typed-string-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3618-find-the-original-typed-string-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3849-equal-sum-grid-partition-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3849-equal-sum-grid-partition-i) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1813-maximum-erasure-value) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Recursion
