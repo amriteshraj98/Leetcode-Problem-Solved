@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
+| [0940-fruit-into-baskets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1813-maximum-erasure-value) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
