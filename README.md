@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3849-equal-sum-grid-partition-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3849-equal-sum-grid-partition-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Hash Table
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -394,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
