@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
+| [0662-maximum-width-of-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
