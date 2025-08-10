@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
