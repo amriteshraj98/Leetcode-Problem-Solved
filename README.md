@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0047-permutations-ii) |
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0047-permutations-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0900-reordered-power-of-2) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0131-palindrome-partitioning) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
