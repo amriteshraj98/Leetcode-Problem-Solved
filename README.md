@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0326-power-of-three) |
 | [0556-next-greater-element-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0556-next-greater-element-iii) |
 | [0900-reordered-power-of-2](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Tree
