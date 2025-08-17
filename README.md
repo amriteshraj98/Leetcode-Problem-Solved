@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
+| [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0556-next-greater-element-iii) |
+| [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1448-maximum-69-number) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -471,4 +474,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0450-delete-node-in-a-bst) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
