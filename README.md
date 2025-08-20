@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
 | [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0940-fruit-into-baskets) |
 | [1073-number-of-enclaves](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [1073-number-of-enclaves](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1073-number-of-enclaves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3849-equal-sum-grid-partition-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3849-equal-sum-grid-partition-i) |
 ## Enumeration
