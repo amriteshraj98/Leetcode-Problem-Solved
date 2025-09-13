@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
