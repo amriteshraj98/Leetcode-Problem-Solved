@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3396-valid-word) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2479-meeting-rooms-iii) |
 ## Sliding Window
 |  |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -554,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search Tree
