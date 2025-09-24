@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0342-power-of-four) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0556-next-greater-element-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0556-next-greater-element-iii) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [1006-vowel-spellchecker](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1006-vowel-spellchecker) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0041-first-missing-positive) |
 | [0139-word-break](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0496-next-greater-element-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
