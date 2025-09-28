@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0611-valid-triangle-number](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
