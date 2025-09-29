@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1073-number-of-enclaves) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
