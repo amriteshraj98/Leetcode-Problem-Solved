@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2047-find-a-peak-element-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2169-simple-bank-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2479-meeting-rooms-iii) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2023-design-movie-rental-system) |
+| [2169-simple-bank-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3827-implement-router) |
