@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2047-find-a-peak-element-ii) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
