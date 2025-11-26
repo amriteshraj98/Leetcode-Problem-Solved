@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
+| [0646-maximum-length-of-pair-chain](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0679-24-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0047-permutations-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0759-set-intersection-size-at-least-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0900-reordered-power-of-2) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0611-valid-triangle-number](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0611-valid-triangle-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0759-set-intersection-size-at-least-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1448-maximum-69-number) |
