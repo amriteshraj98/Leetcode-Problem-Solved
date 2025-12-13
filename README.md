@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3606-coupon-code-validator) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3618-find-the-original-typed-string-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3606-coupon-code-validator) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3797-design-spreadsheet) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3433-count-mentions-per-user](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3606-coupon-code-validator](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
