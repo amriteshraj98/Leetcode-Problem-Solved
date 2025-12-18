@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0087-scramble-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0010-regular-expression-matching) |
 | [0043-multiply-strings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
