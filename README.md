@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1531-string-compression-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1531-string-compression-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1531-string-compression-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1531-string-compression-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2079-delete-duplicate-folders-in-system) |
