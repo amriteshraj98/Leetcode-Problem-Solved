@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0120-triangle) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
