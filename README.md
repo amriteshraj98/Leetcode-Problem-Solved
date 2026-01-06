@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0087-scramble-string) |
+| [0095-unique-binary-search-trees-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0131-palindrome-partitioning) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0131-palindrome-partitioning) |
 | [0679-24-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0102-binary-tree-level-order-traversal) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0102-binary-tree-level-order-traversal) |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0450-delete-node-in-a-bst) |
 ## Probability and Statistics
