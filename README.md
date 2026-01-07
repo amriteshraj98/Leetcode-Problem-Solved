@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1302-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1302-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3863-power-grid-maintenance) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1302-deepest-leaves-sum) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Linked List
 |  |
 | ------- |
