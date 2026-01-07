@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0095-unique-binary-search-trees-ii) |
+| [0115-distinct-subsequences](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0131-palindrome-partitioning) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0087-scramble-string) |
+| [0115-distinct-subsequences](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0139-word-break) |
