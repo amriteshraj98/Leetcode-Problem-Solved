@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0416-partition-equal-subset-sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0556-next-greater-element-iii) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0207-course-schedule](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
