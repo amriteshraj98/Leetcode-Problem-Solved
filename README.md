@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1302-deepest-leaves-sum) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0801-is-graph-bipartite) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1073-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -721,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0450-delete-node-in-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1339-maximum-product-of-splitted-binary-tree) |
