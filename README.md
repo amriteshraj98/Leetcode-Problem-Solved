@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0646-maximum-length-of-pair-chain) |
 | [0650-2-keys-keyboard](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0556-next-greater-element-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0721-accounts-merge) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0960-delete-columns-to-make-sorted-iii) |
