@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0115-distinct-subsequences) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0120-triangle) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0144-binary-tree-preorder-traversal) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0542-01-matrix) |
 | [0794-swim-in-rising-water](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0794-swim-in-rising-water) |
@@ -751,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1628-count-submatrices-with-all-ones) |
