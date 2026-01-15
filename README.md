@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
