@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3433-count-mentions-per-user) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2479-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3863-power-grid-maintenance](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
@@ -756,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -800,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3827-implement-router) |
@@ -853,4 +859,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
