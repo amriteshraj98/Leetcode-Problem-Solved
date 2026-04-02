@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2047-find-a-peak-element-ii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/2625-increment-submatrices-by-one) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/amriteshraj98/Leetcode-Problem-Solved/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
